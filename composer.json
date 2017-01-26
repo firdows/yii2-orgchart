@@ -16,6 +16,9 @@
             "role" : "Developer"
         }
     ],
+    "require": {      
+        "bower-asset/orgchart": "*"
+    },
     "autoload": {
         "psr-4": {
             "firdows\\orgchart\\": ""
