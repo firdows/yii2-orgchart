@@ -4,7 +4,7 @@ use yii\web\AssetBundle;
 
 
 class OrgChartAsset extends AssetBundle { 
-    public $sourcePath = '@bower/orgchart/dist'; //กำหนดที่เก็บ Asset(css,js,image) 
+    public $sourcePath = '@bower/orgchart/dist'; //กำหนดที่เก็บ Asset(css,js,image  ) 
     public $css = [  //กำหนดลงทะเบียนไฟล์ css 
       'jquery.orgchart.css',
     ]; 
